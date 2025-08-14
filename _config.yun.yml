@@ -11,7 +11,7 @@ avatar:
 banner:
   enable: true
   title: 南城的小站
-  border: true
+  border: false
   cloud:
     enable: true
     color: white
@@ -19,8 +19,47 @@ banner:
     enable: true
     icon: ri:arrow-down-s-line
 
+# Background_image
+bg_image:
+  enable: true
+  url: /images/light_bg.png # recomend image related to your mode
+  dark: /images/dark_bg_1.jpg
+  # blur: 30px
+  opacity: 1
+
+# Siderbar
+sidebar:
+  # bg_image: /images/siderbar_img.jpg
+  # dark_bg_image: /images/siderbar_img.jpg
+  bg_position: bottom 1rem center
+  tagcloud:
+    enable: true
+    amount: 20
+
 # Favicon
 favicon: /images/icon.png
+
+# CDN
+cdn:
+  pre: ""
+  css:
+    yun-markdown-css: "yun_markdown_css"
+    prism-theme-vars: "prism_theme_vars"
+  js:
+    base:
+    async:
+    defer:
+
+fireworks:
+  enable: false
+  colors:
+  - "102, 167, 221"
+  - "62, 131, 225"
+  - "33, 78, 194"
+  # - "3, 28, 95"
+  # - "0, 8, 55"
+
+medium_zoom: true
 
 reward:
   enable: false
@@ -228,7 +267,7 @@ social:
   #   color: '#1AAD19'
   - name: X
     link: https://x.com/LonjinoMar
-    icon: ri:twitter-line
+    icon: ri:twitter-x-line
     color: '#1da1f2'
   # - name: Telegram
   #   link: https://t.me/yunyoujun_group
