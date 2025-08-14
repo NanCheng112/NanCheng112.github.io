@@ -109,7 +109,7 @@ albums:
   enable: true
 
 girls:
-  enable: true
+  enable: false
 
 tags:
   动画: crimson
