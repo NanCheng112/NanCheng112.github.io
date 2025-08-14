@@ -128,18 +128,18 @@ tags:
   科幻: midnightblue
   蚂蚁森林: '#54a892'
 
-categories:
-  云游的小视频: '#FB7299'
+# categories:
+#   云游的小视频: '#FB7299'
 
-pages:
-  - name: 我的小伙伴们
-    url: /links/
-    icon: ri:genderless-line
-    color: dodgerblue
-  - name: 喜欢的女孩子
-    url: /girls/
-    icon: ri:women-line
-    color: hotpink
+# pages:
+#   - name: 我的小伙伴们
+#     url: /links/
+#     icon: ri:genderless-line
+#     color: dodgerblue
+#   - name: 喜欢的女孩子
+#     url: /girls/
+#     icon: ri:women-line
+#     color: hotpink
 
 menu:
   custom:

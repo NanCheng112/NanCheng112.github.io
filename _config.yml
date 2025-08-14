@@ -102,6 +102,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/NanCheng112/NanCheng112.github.io.git
+  repository: https://nancheng.site/
   branch: main
   message: Update Hexo Static Content
