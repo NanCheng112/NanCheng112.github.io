@@ -19,6 +19,9 @@ banner:
     enable: true
     icon: ri:arrow-down-s-line
 
+# Favicon
+favicon: /images/icon.png
+
 reward:
   enable: false
   comment: 我很可爱，请给我钱
