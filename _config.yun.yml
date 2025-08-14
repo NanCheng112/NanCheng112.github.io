@@ -7,6 +7,18 @@ avatar:
     emoji: ✨
     message: Twinkle, twinkle, little star.
 
+# UI
+banner:
+  enable: true
+  title: 南城的小站
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
 reward:
   enable: false
   comment: 我很可爱，请给我钱
