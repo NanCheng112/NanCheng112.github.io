@@ -94,7 +94,14 @@ footer:
   #   logo: https://cdn.yunyoujun.cn/img/logo/upyun-logo.png
   #   prefix: 本网站由
   #   suffix: 提供 CDN 加速
-  custom_text: "© Nan Cheng"
+  custom_text: ''
+  
+  live_time:
+    enable: true
+    prefix: 本博客已萌萌哒地运行
+    suffix: (●'◡'●)
+    start_time: "2019-04-12T00:00:00"
+  
 
 engine_search:
   enable: false
