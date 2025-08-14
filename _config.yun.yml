@@ -162,7 +162,7 @@ google_tagmanager:
 say:
   api: https://el-bot-api.vercel.app/api/words/young
   hitokoto:
-    enable: false
+    enable: true
 
 social:
   # - name: RSS
