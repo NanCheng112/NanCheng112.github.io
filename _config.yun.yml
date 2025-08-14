@@ -23,7 +23,7 @@ banner:
 bg_image:
   enable: true
   url: /images/light_bg.png # recomend image related to your mode
-  dark: /images/dark_bg_1.jpg
+  dark: /images/dark_bg.jpg
   # blur: 30px
   opacity: 1
 
