@@ -140,9 +140,13 @@ giscus:
 
 footer:
   since: 2025
-  # icon:
-  #   url: https://sponsors.yunyoujun.cn
-  #   title: 云游君的赞助者们
+  icon:
+    # `heart` is recommended with animation in red (#ff0000).
+    name: ri:sparkling-line
+    # If you want to animate the icon, set it to true.
+    animated: true
+    # Change the color of icon, using Hex Code.
+    color: "#0078E7"
   # beian:
   #   enable: true
   #   icp: 苏ICP备17038157号
@@ -154,7 +158,6 @@ footer:
   #   prefix: 本网站由
   #   suffix: 提供 CDN 加速
   custom_text: ''
-  
   live_time:
     enable: true
     prefix: 本博客已运行
@@ -237,11 +240,18 @@ google_tagmanager:
 # wordcount:
 #   enable: true
 
+# say something
+# https://say.elpsy.cn
 say:
+  enable: true
+  # api: https://say.elpsy.cn/sentences.json
+  # /data/sentences.json
   api: https://el-bot-api.vercel.app/api/words/young
+  # https://developer.hitokoto.cn/sentence/
   hitokoto:
-    enable: true
-
+    enable: ture
+    api: https://v1.hitokoto.cn?c=a&c=d&c=k
+    # api: https://v1.hitokoto.cn?c=a&c=b&c=c&c=d&c=k
 social:
   # - name: RSS
     # set rss in your root config
