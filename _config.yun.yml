@@ -56,6 +56,9 @@ post_meta:
 # Favicon
 favicon: /images/icon.png
 
+wordcloud:
+  enable: true
+
 # CDN
 cdn:
   pre: ""
