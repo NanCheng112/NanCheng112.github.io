@@ -1,6 +1,8 @@
 mode: auto
 
 avatar:
+  enable: true
+  mickey_mouse: false
   url: /images/jinshi.jpg
   status:
     enable: true
@@ -35,6 +37,21 @@ sidebar:
   tagcloud:
     enable: true
     amount: 20
+  
+# Extra links
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: ri:genderless-line
+    color: dodgerblue
+
+# Post meta display settings
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
 
 # Favicon
 favicon: /images/icon.png
@@ -164,7 +181,7 @@ google_adsense:
 
 post_edit:
   enable: true
-  url: https://github.com/YunYouJun/yunyoujun.github.io/tree/hexo/source/
+  url: https://github.com/NanCheng112/NanCheng112.github.io/tree/hexo/source/
 
 albums:
   enable: true
