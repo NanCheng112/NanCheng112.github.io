@@ -29,8 +29,8 @@ bg_image:
 
 # Siderbar
 sidebar:
-  # bg_image: /images/siderbar_img.jpg
-  # dark_bg_image: /images/siderbar_img.jpg
+  bg_image: ""
+  dark_bg_image: ""
   bg_position: bottom 1rem center
   tagcloud:
     enable: true
