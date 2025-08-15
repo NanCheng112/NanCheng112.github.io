@@ -103,7 +103,7 @@ comment:
     - waline
     # - giscus
   tips:
-    - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/YunYouJun/yunyoujun.github.io/discussions" target="_blank">GitHub Discussions</a> 与我交流。
+    - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/NanCheng112" target="_blank">GitHub</a> 与我交流。
 
 waline:
   enable: true
