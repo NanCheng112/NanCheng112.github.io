@@ -59,6 +59,10 @@ favicon: /images/icon.png
 wordcloud:
   enable: true
 
+# archive
+archive:
+  last_word: 没有更多了(✘﹏✘ა)
+
 # CDN
 cdn:
   pre: ""
