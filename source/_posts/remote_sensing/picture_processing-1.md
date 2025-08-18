@@ -45,7 +45,7 @@ $$ L = \frac{RT_\phi}{\pi}E_0T_\theta\cos\theta + \frac{RT_\phi}{\pi}SE_D+SL_p$$
 $$ 
 \begin{cases} 
 x=a_{0,0}+a_{1,0}u+a_{0,1}v+a_{1,1}uv+a_{2,0}u^2+a_{0,2}v^2 
-\\ 
+\newline
 y=b_{0,0}+b_{1,0}u+b_{0,1}v+b_{1,1}uv+b_{2,0}u^2+b_{0,2}v^2 
 \end{cases} 
 $$
