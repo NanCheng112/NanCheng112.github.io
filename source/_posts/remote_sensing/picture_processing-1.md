@@ -18,7 +18,7 @@ katex: true
 
 引起辐射畸变的环节有**传感器探测**与**电磁波在大气中的传输过程**以及**地形起伏以及太阳位置的影响**。辐射校正的基本流程如下图所示：    
 
-![图1] (https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/remote_sensing/pic_pro-1.png?raw=true) 
+![图片1](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/remote_sensing/pic_pro-1.png?raw=true "图1")
 
 其中大气顶层的辐射亮度（反射率）又称为表观辐射亮度。辐射定标是针对传感器的辐射校正，目的主要是消除传感器本身产生的误差，大气校正消除了传输过程中的大气影响，对于地形起伏较大的地区还额外需要进行地形辐射校正。
 
