@@ -168,9 +168,8 @@ plt.legend()
 
 
 
-
-    
-![png](perceptron_files/perceptron_3_1.png)
+  
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/ml_learning/perceptron_files/perceptron_3_1.png?raw=true)
     
 
 
@@ -253,7 +252,7 @@ plt.legend()
 
 
     
-![png](perceptron_files/perceptron_9_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/ml_learning/perceptron_files/perceptron_9_1.png?raw=true)
     
 
 
@@ -340,7 +339,7 @@ plt.legend()
 
 
     
-![png](perceptron_files/perceptron_15_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/ml_learning/perceptron_files/perceptron_15_1.png?raw=true)
     
 
 
