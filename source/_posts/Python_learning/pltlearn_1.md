@@ -40,7 +40,7 @@ ax3.scatter(np.arange(30), np.arange(30) + 3 * np.random.randn(30))
 
 
     
-![png](pltlearn_1_files/pltlearn_1_2_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_2_1.png)
     
 
 
@@ -61,7 +61,7 @@ axes[1].scatter(np.arange(10), np.arange(10) + 2 * np.random.randn(10))
 
 
     
-![png](pltlearn_1_files/pltlearn_1_3_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_3_1.png)
     
 
 
@@ -80,7 +80,7 @@ plt.subplots_adjust(wspace=0, hspace=0) #wspace与hspace分别控制图片宽度
 
 
     
-![png](pltlearn_1_files/pltlearn_1_6_0.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_6_0.png)
     
 
 
@@ -102,7 +102,7 @@ plt.plot(np.random.randn(50).cumsum(), 'ko--') # 创建一个带有点标记虚�
 
 
     
-![png](pltlearn_1_files/pltlearn_1_8_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_8_1.png)
     
 
 
@@ -129,7 +129,7 @@ ax.legend()
 
 
     
-![png](pltlearn_1_files/pltlearn_1_10_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_10_1.png)
     
 
 
@@ -163,7 +163,7 @@ ax.set_title('random steps with annotaation')
 
 
     
-![png](pltlearn_1_files/pltlearn_1_12_1.png)
+![png](https://github.com/NanCheng112/NanCheng112.github.io/blob/hexo/source/_posts/Python_learning/pltlearn_1_files/pltlearn_1_12_1.png)
     
 
 
